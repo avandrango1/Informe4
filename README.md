@@ -5,9 +5,12 @@ Identificar circuitos en serie y circuitos en paralelo.
 
 Analizar las fórmulas y componentes de circuitos serie y en paralelo.
 
+Identificar los distintos métodos para resolver circuitos
+
 MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/117759439/208227062-e6e6954a-3d32-47d0-896b-bf7168c5122d.png)
+![image](https://user-images.githubusercontent.com/117759439/208269786-3cc31bf6-9c07-4764-b5c2-45a07af2d626.png)
 
 
 RESOLUCIÓN DE EJERCICIOS 
@@ -291,5 +294,12 @@ a)RA=39.8 ohm  -->  RB=73 ohm  -->  RC=48.7 ohm
 b)RA=21.2k ohm -->  RB=10.3k ohm --> RC=14.9k ohm 
 
 VIDEO 
+https://youtu.be/DXsMjjFqXU4
 
 CONCLUSIONES
+
+Al finalizar el informe ya podemos identificar circuitos en serie y circuitos en paralelo 
+
+Tambien identificamos las propiedades y elementos de cada elemento
+
+Identificamos la importancia de cada método y como es su resolución.
